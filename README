@@ -1,3 +1,5 @@
 1.  View starting_point.rb to see the method as it existed originally.
 2.  View color_generator.rb to see the final class that was extracted and the method that was refactored
 3.  View test_color_generator.rb to see the tests that were created to allow the refactoring.
+
+The original source is from https://github.com/chrisdingli/PixelHoldr
